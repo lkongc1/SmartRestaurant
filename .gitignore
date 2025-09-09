@@ -30,3 +30,6 @@ Thumbs.db   # Para Windows
 # TailwindCSS
 .tailwind/
 
+.env.local  # Para entorno local
+.env.*  # Para archivos de entorno específicos
+
